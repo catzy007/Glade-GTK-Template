@@ -1,6 +1,6 @@
 # Glade-GTK-Template
 Simple template to help create GTK-Glade applications. 
-check this too [GTK+ 3 Reference Manual](https://developer.gnome.org/gtk3/stable/index.html)
+Check this too [GTK+ 3 Reference Manual](https://developer.gnome.org/gtk3/stable/index.html)
 
 ## Dependency
 * libgtk3 `sudo apt install libgtk-3-dev`
@@ -10,7 +10,7 @@ check this too [GTK+ 3 Reference Manual](https://developer.gnome.org/gtk3/stable
 > You might need to install glade `sudo apt install glade` for easier UI design
 
 ## Installation
-* make build directoru `mkdir build`
+* make build directory `mkdir build`
 * move to build `cd build`
 * generate makefiles `cmake ..`
 * begin compile `make`
